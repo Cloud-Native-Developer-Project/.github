@@ -104,3 +104,8 @@ Implementa la **lógica de negocio para monetización**.
 * **Monitoreo y Observabilidad:** Desde el principio, integra **CloudWatch** y **X-Ray** para cada módulo que crees. Esto te permitirá depurar y entender el comportamiento de tu aplicación a medida que la construyes.
 * **Seguridad (IAM):** A medida que añades servicios, define y aplica los roles y políticas de IAM de forma granular (principio de menor privilegio) para asegurar cada componente.
 
+---
+
+### **Dependencias:**
+
+Cualquier dependencia para el **CDK** puede ser obtenida del siguiente enlace: https://mvnrepository.com/artifact/software.amazon.awscdk
